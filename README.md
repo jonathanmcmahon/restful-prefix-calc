@@ -1,5 +1,6 @@
 # restful-prefix-calc
-A RESTful normal Polish notation calculator.
+
+A RESTful [normal Polish notation](https://en.wikipedia.org/wiki/Polish_notation) calculator.
 
 This project is an example of a simple RESTful API written in Go.
 
